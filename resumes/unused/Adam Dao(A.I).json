@@ -1,0 +1,55 @@
+{
+  "name": "Patryk Nguyen",
+  "email": "patryk.nguyen86@outlook.com",
+  "phone": "",
+  "location": "Wólka Kosowska, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-nguyen-9a03b73b9/",
+  "website": "",
+
+  "experience": [
+    {
+      "company": "ServiceNow",
+      "title": "Senior AI Engineer",
+      "location": "United States",
+      "start_date": "Feb 2024",
+      "end_date": "Dec 2025"
+    },
+    {
+      "company": "Martello Technologies",
+      "title": "ML Engineer",
+      "location": "Canada",
+      "start_date": "Oct 2021",
+      "end_date": "Dec 2023"
+    },
+    {
+      "company": "Diffco",
+      "title": "ML Engineer",
+      "location": "United States",
+      "start_date": "May 2019",
+      "end_date": "Aug 2021"
+    },
+    {
+      "company": "Orient Software",
+      "title": "Data Scientist",
+      "location": "Vietnam",
+      "start_date": "Oct 2017",
+      "end_date": "Mar 2019"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Master of Artificial Intelligence",
+      "school": " Royal Melbourne Institute of Technology Vietnam",
+      "start_year": "2017",
+      "end_year": "2019"
+    },
+    {
+      "degree": "Bachelor's degree, Computer Science",
+      "school": " Van Lang University",
+      "start_year": "2013",
+      "end_year": "2017"
+    }
+  ]
+}
+

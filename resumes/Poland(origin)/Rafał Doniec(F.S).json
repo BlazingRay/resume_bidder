@@ -1,0 +1,39 @@
+{
+  "name": "Rafał Doniec",
+  "email": "rafal_doniec4@outlook.com",
+  "phone": "",
+  "location": "Piaseczno, Poland",
+  "website": "",
+
+  "experience": [
+    {
+      "company": "Yeti",
+      "title": "Senior Software Engineer",
+      "location": "United States",
+      "start_date": "Aug 2023",
+      "end_date": "Mar 2026"
+    },
+    {
+      "company": "Apptension",
+      "title": "Full Stack Engineer",
+      "location": "Poland",
+      "start_date": "Nov 2018",
+      "end_date": "Jun 2023"
+    },
+    {
+      "company": "Senla",
+      "title": "Software Developer",
+      "location": "Poland",
+      "start_date": "Sep 2017",
+      "end_date": "Sep 2018"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's degree, Computer Science",
+      "school": "Poznań University of Technology",
+      "start_year": "2013",
+      "end_year": "2017"
+    }
+  ]
+}

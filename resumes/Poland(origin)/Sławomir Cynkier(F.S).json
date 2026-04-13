@@ -1,0 +1,19 @@
+{
+  "name": "Sławomir Cynkier",
+  "email": "slawomir_cynkier5@outlook.com",
+  "phone": "",
+  "location": "Piaseczno, Poland",
+  "website": "",
+
+  "experience": [
+  ],
+
+ "education": [
+    {
+      "degree": "Bachelor's degree, Computer Science",
+      "school": "Poznań University of Technology",
+      "start_year": "2013",
+      "end_year": "2017"
+    }
+  ]
+}

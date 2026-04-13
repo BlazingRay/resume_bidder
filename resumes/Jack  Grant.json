@@ -1,0 +1,47 @@
+{
+  "name": "Adam Oviedo",
+  "email": "adam_oviedo_227@outlook.com",
+  "phone": "+1 (737) 326 0958",
+  "location": "4298 BONHAM AVE, ODESSA, TX 79762",
+  "website": "",
+
+  "experience": [
+    {
+      "company": "Cognizant",
+      "title": "Senior Full Stack Engineer",
+      "location": "NJ, US",
+      "start_date": "Jun 2023",
+      "end_date": "Present"
+    },
+    {
+      "company": "Snapsheet, Inc",
+      "title": "Software Engineer ",
+      "location": "IL, US",
+      "start_date": "Feb 2019",
+      "end_date": "May 2023"
+    },
+    {
+      "company": "Accenture",
+      "title": "Software Engineer",
+      "location": "TX, US",
+      "start_date": "Feb 2017",
+      "end_date": "Dec 2018"
+    },
+    {
+      "company": "Arbisoft",
+      "title": "Software Engineer(Intern)",
+      "location": "TX, US",
+      "start_date": "Sep 2016",
+      "end_date": "Dec 2016"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor's degree, Computer Science",
+      "school": "University of Texas Permian Basin",
+      "start_year": "2012",
+      "end_year": "2016"
+    }
+  ]
+}

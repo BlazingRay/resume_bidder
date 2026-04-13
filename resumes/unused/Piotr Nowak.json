@@ -1,0 +1,41 @@
+{
+  "name": "Piotr Nowak",
+  "email": "piotrnowak0824@gmail.com",
+  "phone": "",
+  "location": "Gdańsk, Pomeranian, Poland",
+  "linkedin": "https://www.linkedin.com/in/piotr-nowak-dev",
+  "website": "",
+
+  "experience": [
+    {
+      "company": "Hexagon AB",
+      "title": "Senior Software Engineer",
+      "location": "Stockholm, Sweden",
+      "start_date": "Feb 2025",
+      "end_date": "Present"
+    },
+    {
+      "company": "STX Next",
+      "title": "Senior Software Engineer",
+      "location": "Poznań, Poland",
+      "start_date": "Feb 2022",
+      "end_date": "Jan 2025"
+    },
+    {
+      "company": "Tietoevry",
+      "title": "Software Engineer",
+      "location": "Poznań, Poland",
+      "start_date": "Sep 2019",
+      "end_date": "Jan 2022"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Master’s Degree in Computer Science",
+      "school": "Adam Mickiewicz University in Poznań",
+      "start_year": "2016",
+      "end_year": "2018"
+    }
+  ]
+}

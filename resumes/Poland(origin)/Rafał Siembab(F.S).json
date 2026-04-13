@@ -1,0 +1,40 @@
+{
+  "name": "Rafał Siembab",
+  "email": "rafal_siembab4@outlook.com",
+  "phone": "",
+  "location": "Piaseczno, Poland",
+  "website": "",
+
+  "experience": [
+    {
+      "company": "EPAM Systems",
+      "title": "Senior Software Engineer",
+      "location": "United States",
+      "start_date": "Feb 2024",
+      "end_date": "Mar 2026"
+    },
+    {
+      "company": "TTT Studios",
+      "title": "Full Stack Engineer",
+      "location": "Canada",
+      "start_date": "Mar 2019",
+      "end_date": "Dec 2023"
+    },
+    {
+      "company": "Softwaremill",
+      "title": "Software Developer",
+      "location": "Poland",
+      "start_date": "Oct 2017",
+      "end_date": "Dec 2018"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor's degree, Computer Science",
+      "school": "Poznań University of Technology",
+      "start_year": "2013",
+      "end_year": "2017"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Jacek Kania",
+  "email": "jacek_kania4@outlook.com",
+  "phone": "",
+  "location": "Piaseczno, Poland",
+  "website": "",
+
+  "experience": [
+    {
+      "company": "Replicon",
+      "title": "Senior Software Engineer",
+      "location": "Canada",
+      "start_date": "Oct 2023",
+      "end_date": "Mar 2026"
+    },
+    {
+      "company": "TTT Studios",
+      "title": "Full Stack Engineer",
+      "location": "Canada",
+      "start_date": "Feb 2019",
+      "end_date": "Aug 2023"
+    },
+    {
+      "company": "Miquido",
+      "title": "Software Developer",
+      "location": "Poland",
+      "start_date": "Sep 2017",
+      "end_date": "Dec 2018"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor's degree, Computer Science",
+      "school": "Białystok University of Technology",
+      "start_year": "2013",
+      "end_year": "2017"
+    }
+  ]
+}

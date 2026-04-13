@@ -1,0 +1,48 @@
+{
+  "name": "Daniel Kaczmarek",
+ "email": "danielkaczmarek13@outlook.com",
+  "phone": "",
+  "location": "Warsaw, Mazowieckie, Poland",
+  "linkedin": "https://www.linkedin.com/in/daniel-kaczmarek-14957b38b/",
+  "website": "",
+
+  "experience": [
+    {
+      "company": "SLPowers",
+      "title": "Senior Software Engineer",
+      "location": "Florida, United States(Remote)",
+      "start_date": "May 2024",
+      "end_date": "Present"
+    },
+    {
+      "company": "Deviniti",
+      "title": "Senior Full Stack Engineer",
+      "location": "Wrocław Poland(Onsite)",
+      "start_date": "Jul 2020",
+      "end_date": "Apr 2024"
+    },
+    {
+      "company": "Kiggla",
+      "title": "Full Stack Developer",
+      "location": "Florida United States(remote)",
+      "start_date": "Jun 2017",
+      "end_date": "Feb 2020"
+    },
+    {
+      "company": "PuzzleHR",
+      "title": "Web Developer",
+     "location": "Florida United States(remote)",
+      "start_date": "Oct 2014",
+      "end_date": "May 2017"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "school": "Hokkaido University",
+      "start_year": "2010",
+      "end_year": "2014"
+    }
+  ]
+}

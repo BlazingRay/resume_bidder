@@ -1,0 +1,54 @@
+{
+  "name": "Patryk Le",
+  "email": "patryk.le82@outlook.com",
+  "phone": "",
+  "location": "Wólka Kosowska, Poland",
+  "linkedin": "https://www.linkedin.com/in/patryk-le-8595343b8/",
+  "website": "",
+
+  "experience": [
+    {
+      "company": "Spiria",
+      "title": "Senior AI Engineer",
+      "location": "Canada",
+      "start_date": "May 2023",
+      "end_date": "Dec 2025"
+    },
+    {
+      "company": "Endava",
+      "title": "ML Engineer",
+      "location": "United Kingdom",
+      "start_date": "Aug 2020",
+      "end_date": "May 2023"
+    },
+    {
+      "company": "Replicon",
+      "title": "Junior ML Engineer",
+      "location": "Canada",
+      "start_date": "Oct 2018",
+      "end_date": "Apr 2020"
+    },
+    {
+      "company": "Saigon Technology",
+      "title": "Data Scientist",
+      "location": "Vietnam",
+      "start_date": "Oct 2016",
+      "end_date": "Sep 2018"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Master’s in Data Science",
+      "school": " VNU University of Science",
+      "start_year": "2016",
+      "end_year": "2018"
+    },
+    {
+      "degree": "Bachelor's degree, Computer Science",
+      "school": " VNU University of Science",
+      "start_year": "2012",
+      "end_year": "2016"
+    }
+  ]
+}

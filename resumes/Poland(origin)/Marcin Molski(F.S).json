@@ -1,0 +1,40 @@
+{
+  "name": "Marcin Molski",
+  "email": "marcin_molski4@outlook.com",
+  "phone": "",
+  "location": "Piaseczno, Poland",
+  "website": "",
+
+  "experience": [
+    {
+      "company": "Cincom Systems",
+      "title": "Senior Software Engineer",
+      "location": "United States",
+      "start_date": "Jul 2023",
+      "end_date": "Mar 2026"
+    },
+    {
+      "company": "Sage Group plc",
+      "title": "Full Stack Engineer",
+      "location": "United States",
+      "start_date": "Feb 2019",
+      "end_date": "May 2023"
+    },
+    {
+      "company": "Comarch",
+      "title": "Software Developer",
+      "location": "Poland",
+      "start_date": "Sep 2017",
+      "end_date": "Dec 2018"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor's degree, Computer Science",
+      "school": "University of Information Technology and Management",
+      "start_year": "2013",
+      "end_year": "2017"
+    }
+  ]
+}
