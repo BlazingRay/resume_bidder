@@ -1,0 +1,61 @@
+{
+  "name": "Julius Buckley",
+  "email": "julius.b042@outlook.com",
+  "phone": "",
+  "location": "Oakland, CA 94612",
+  "linkedin": "https://www.linkedin.com/in/juliusbuckley",
+
+  "experience": [
+    {
+      "company": "Apollo.io",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "start_date": "Jun 2024",
+      "end_date": "Present"
+    },
+    {
+      "company": "GoodTime.io",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "start_date": "Aug 2021",
+      "end_date": "Oct 2023"
+    },
+    {
+      "company": "GoodTime.io",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "start_date": "Jul 2019",
+      "end_date": "Aug 2021"
+    },
+    {
+      "company": "Meta",
+      "title": "Enterprise Software Engineer",
+      "location": "Menlo Park, CA",
+      "start_date": "Jun 2018",
+      "end_date": "Mar 2019"
+    },
+    {
+      "company": "Limelight Health",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "start_date": "Mar 2017",
+      "end_date": "Jun 2018"
+    },
+    {
+      "company": "Accenture",
+      "title": "Technology Consultant",
+      "location": "Los Angeles, CA",
+      "start_date": "Feb 2013",
+      "end_date": "Jun 2016"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor's Science, Information Technology",
+      "school": "George Mason University",
+      "start_year": "2008",
+      "end_year": "2012"
+    }
+  ]
+}
